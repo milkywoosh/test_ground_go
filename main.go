@@ -1,13 +1,13 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/milkywoosh/gomod_basic_math"
+	"github.com/milkywoosh/gomod_struct_modif"
 )
 
 func main() {
-	result := gomod_basic_math.Math_modulo(10, 2)
-	fmt.Println(result)
+	data := gomod_struct_modif.TestStruct{}
+	data.SetName("ben")
+	data.SetWealth(100000)
+	data.ShowData()
 
 }

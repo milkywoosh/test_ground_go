@@ -1,0 +1,3 @@
+update newer module golang from github
+
+--> go get -u github.com/milkywoosh/gomod_struct_modif@v1.0.0
