@@ -1,3 +1,7 @@
+github.com/milkywoosh/gomod_basic_math v1.0.3 h1:MrvJpLVdzx40Io3jmIU4WGKEJ2XHf8wq4hXjajveVC0=
+github.com/milkywoosh/gomod_basic_math v1.0.3/go.mod h1:EHX92KrrVYJTnKHVncUG/wrBOIZKWYkQXT8ETpb2xKI=
+github.com/milkywoosh/gomod_slice v1.0.0 h1:Q58fsswbi+jzSDn22VVbN6vSn9xZT6+VooobxJN4cwM=
+github.com/milkywoosh/gomod_slice v1.0.0/go.mod h1:8gdEfseyyY9TlhKWJafgF961rUaNZsV/fkACSddLsdQ=
 github.com/milkywoosh/gomod_struct_modif v0.0.0-20220403034630-d9305a44a317 h1:wGnak1otFSNizGbhfppVsUn8E6LFF8RSQ6yZqHzrBLc=
 github.com/milkywoosh/gomod_struct_modif v0.0.0-20220403034630-d9305a44a317/go.mod h1:YLFu5Db52oTs7LPCTsnPdlLh8YeWKwPDk+qmAEIGzq0=
 github.com/milkywoosh/gomod_struct_modif v1.0.0 h1:l0PbGxca4OhzqLr6lkvFbN/PfD8QVZEZTEzB2kNZvPo=
